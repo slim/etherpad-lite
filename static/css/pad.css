@@ -1065,6 +1065,12 @@ margin-top: 1px;
   background-position: 0px -183px;
   display: inline-block;
 }
+.buttonicon-rtl {
+  background-position: 0px -494px;
+}
+.buttonicon-ltr {
+  background-position: 0px -511px;
+}
 
 #usericon
 {
